@@ -35,6 +35,81 @@
     <div class="card alagoas">
         <h3><a href="{{ route('alagoas') }}">Alagoas</a></h3>
     </div>
+    <div class="card amapa">
+        <h3><a href="{{ route('amapa') }}">Amapá</a></h3>
+    </div>
+    <div class="card amazonas">
+        <h3><a href="{{ route('amazonas') }}">Amazonas</a></h3>
+    </div>
+    <div class="card bahia">
+        <h3><a href="{{ route('bahia') }}">Bahia</a></h3>
+    </div>
+    <div class="card ceara">
+        <h3><a href="{{ route('ceara') }}">Ceará</a></h3>
+    </div>
+    <div class="card espirito-santo">
+        <h3><a href="{{ route('espiritoSanto') }}">Espirito Santo</a></h3>
+    </div>
+    <div class="card goias">
+        <h3><a href="{{ route('goias') }}">Goias</a></h3>
+    </div>
+    <div class="card maranhao">
+        <h3><a href="{{ route('maranhao') }}">Maranhao</a></h3>
+    </div>
+    <div class="card mato-grosso">
+        <h3><a href="{{ route('matoGrosso') }}">Mato Grosso</a></h3>
+    </div>
+    <div class="card mato-grosso-do-sul">
+        <h3><a href="{{ route('matoGrossoDoSul') }}">Mato Grosso Do Sul</a></h3>
+    </div>
+    <div class="card minas-gerais">
+        <h3><a href="{{ route('minasGerais') }}">Minas Gerais</a></h3>
+    </div>
+    <div class="card para">
+        <h3><a href="{{ route('para') }}">Para</a></h3>
+    </div>
+    <div class="card paraiba">
+        <h3><a href="{{ route('paraiba') }}">Paraiba</a></h3>
+    </div>
+    <div class="card parana">
+        <h3><a href="{{ route('parana') }}">Parana</a></h3>
+    </div>
+    <div class="card pernambuco">
+        <h3><a href="{{ route('pernambuco') }}">Pernambuco</a></h3>
+    </div>
+    <div class="card piaui">
+        <h3><a href="{{ route('piaui') }}">Piaui</a></h3>
+    </div>
+    <div class="card rio-de-janeiro">
+        <h3><a href="{{ route('rioDeJaneiro') }}">Rio De Janeiro</a></h3>
+    </div>
+    <div class="card rio-grande-do-sul">
+        <h3><a href="{{ route('rioGrandeDoSul') }}">Rio Grande Do Sul</a></h3>
+    </div>
+    <div class="card rio-grande-do-norte">
+        <h3><a href="{{ route('rioGrandeDoNorte') }}">Rio Grande Do Norte</a></h3>
+    </div>
+    <div class="card rondonia">
+        <h3><a href="{{ route('rondonia') }}">Rondonia</a></h3>
+    </div>
+    <div class="card roraima">
+        <h3><a href="{{ route('roraima') }}">Roraima</a></h3>
+    </div>
+    <div class="card santa-catarina">
+        <h3><a href="{{ route('santaCatarina') }}">Santa Catarina</a></h3>
+    </div>
+    <div class="card sao-paulo">
+        <h3><a href="{{ route('saoPaulo') }}">São Paulo</a></h3>
+    </div>
+    <div class="card sergipe">
+        <h3><a href="{{ route('sergipe') }}">Sergipe</a></h3>
+    </div>
+    <div class="card tocantins">
+        <h3><a href="{{ route('tocantins') }}">Tocantins</a></h3>
+    </div>
+    <div class="card distrito-federal">
+        <h3><a href="{{ route('distrito') }}">Distrito Federal</a></h3>
+    </div>
 </div>
 </main>
 
