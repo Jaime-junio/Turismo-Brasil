@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(https://acdn.mitiendanube.com/stores/001/805/284/products/bandeira-do-acre1-9ad923bac9e64740a716293969586940-1024-1024.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    
+    height: 50px;
+    backdrop-filter: blur(3px);
+    font-size: 26px;
+    color: white;
+    font-family: 'Courgette', cursiva;
+}
+
+
+header a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 8px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+
+
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
+}
